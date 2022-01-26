@@ -10,7 +10,7 @@ const Header = ({ title, onAdd, showAdd }) => {
         onClick={onAdd}
       />
     </header>
-  );
+  ); 
 };
 
 Header.defaultProps = {
